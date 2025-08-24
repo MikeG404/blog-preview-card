@@ -79,6 +79,11 @@ img {
     gap: 12px;
 }
 
+.content h1:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
+
 #category {
     width: 82px;
     height: 29px;
